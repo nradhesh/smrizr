@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 # Load environment variables from .env file
 load_dotenv()
-GEMINI_API_KEY = "AIzaSyBr2O7ocfTXjo7d4E6fHdCfSygwoW7YlUs"
+GEMINI_API_KEY = "Use ur own api key sir ji"
 
 # Initialize Flask app
 app = Flask(__name__)
