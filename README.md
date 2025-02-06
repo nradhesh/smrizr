@@ -1,10 +1,10 @@
 # SMRIZR - A VIDEO SUMMARIZER based on duration using AI.
 
 This project allows you to summarize specific segments of a YouTube video. By providing a video link and selecting a time segment, the application extracts the transcript of the video and generates a summary using the **Google Gemini API**.
+![image](https://github.com/user-attachments/assets/209b08a8-8855-4eb6-8468-31ac3652fb59)
 
 ![image](https://github.com/user-attachments/assets/97ef9a6c-560b-4333-8b6f-5051a46d0a8f)
 
-![image](https://github.com/user-attachments/assets/209b08a8-8855-4eb6-8468-31ac3652fb59)
 
 ## Features
 
